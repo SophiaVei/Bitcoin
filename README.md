@@ -8,7 +8,7 @@ time locking the redeem script is equivalent to P2PKH.
 
 The second program (Script2.py) allows someone to spend all funds from this address.
 
-Both programs:\\
+Both programs: \\
 ● uses regtest
 ● assumse a local Bitcoin regtest node is running
 
